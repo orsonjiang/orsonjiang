@@ -1,8 +1,8 @@
 <h1 align="left">Hi 👋, I'm Orson</h1>
 
-- 🔭 I’m currently working on [Pulse](https://pulsegroup.gg/)
+- 🔭 Working on new things at [Pulse](https://pulsegroup.gg/)
 
-- 🌱 I’m currently taking **a variety of CS courses at Stony Brook University**
+- 🌱 Taking **a variety of CS courses at Stony Brook University**
 
 - 💬 Ask me about **work, school, programming, and anything in my daily life.**
 
