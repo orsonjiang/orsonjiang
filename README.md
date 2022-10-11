@@ -1,14 +1,14 @@
 <h1 align="left">Hi 👋, I'm Orson</h1>
 
-- 💻 Check out my website [here](https://orsonjiang.com/)
+- 💻 Check out my website [here](https://orsonjiang.com/)!
 
-- 🔭 Working on new things at [Pulse](https://pulsegroup.gg/)
+- 🔭 Working on new things at [Pulse](https://pulsegroup.gg/).
 
-- 🌱 Taking **a variety of CS courses at Stony Brook University**
+- 🌱 Taking **a variety of CS courses at Stony Brook University**.
 
-- 💬 Ask me about **work, school, programming, and anything in my daily life**
+- 💬 Ask me about **work, school, programming, and anything in my daily life**.
 
-- 📫 Connect with me on [LinkedIn](https://linkedin.com/in/orsonjiang)
+- 📫 Connect with me on [LinkedIn](https://linkedin.com/in/orsonjiang).
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
