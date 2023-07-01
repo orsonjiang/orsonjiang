@@ -2,6 +2,8 @@
 
 - 💻 Check out my website [here](https://orsonjiang.com/)!
 
+- 🔭 Working on [Spotify for Car](https://spotifyforcar.com/).
+
 - 🌱 Taking **a variety of CS courses at Stony Brook University**.
 
 - 💬 Ask me about **work, school, programming, and anything in my daily life**.
