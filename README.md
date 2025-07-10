@@ -1,12 +1,12 @@
 <h1 align="left">Hi 👋, I'm Orson</h1>
 
+- 🔭 Working on [Endowity](https://endowity.com/).
+
 - 💻 Check out my website [here](https://orsonjiang.com/)!
 
-- 🔭 Working on [Spotify for Car](https://spotifyforcar.com/).
+- 🌱 Recently graduated from **Stony Brook University** with a **Bachelor of Computer Science**.
 
-- 🌱 Taking **a variety of CS courses at Stony Brook University**.
-
-- 💬 Ask me about **work, school, programming, and anything in my daily life**.
+- 💬 Ask me about **work, programming, and anything in my daily life**.
 
 - 📫 Connect with me on [LinkedIn](https://linkedin.com/in/orsonjiang).
 
